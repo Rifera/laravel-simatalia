@@ -23,11 +23,11 @@
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                         <li><a class="dropdown-item" href="/profile/deskripsi">Deskripsi</a></li>
                         <li><a class="dropdown-item" href="/profile/struktur-pemerintahan">Struktur Pemerintahan</a></li>
-                        <li><a class="dropdown-item" href="/profile/visi-misi">Visi Misi</a></li>
+                        <!-- <li><a class="drop down-item" href="/profile/visi-misi">Visi Misi</a></li> -->
                         <li><a class="dropdown-item" href="/profile/geografis">Letak Geografis</a></li>
                     </ul>
                 </li>
-                <li class="nav-item dropdown">
+                <!-- <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
                         data-bs-toggle="dropdown" aria-expanded="false">
                         Statistik
@@ -37,7 +37,7 @@
                         <li><a class="dropdown-item" href="#">Keuangan</a></li>
                         <li><a class="dropdown-item" href="#">Transportasi</a></li>
                     </ul>
-                </li>
+                </li> -->
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
                         data-bs-toggle="dropdown" aria-expanded="false">
@@ -65,6 +65,9 @@
                         <li><a class="dropdown-item" href="/publikasi/video">Video</a></li>
                         <li><a class="dropdown-item" href="/publikasi/berita">Berita</a></li>
                     </ul>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Alur Pelayanan</a>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
