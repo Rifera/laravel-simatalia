@@ -103,3 +103,8 @@ Route::get('/pemerintahan/pengurus-BPD', function (){
 Route::get('/pemerintahan/pengurus-LPM', function (){
     return view('pemerintahan/lpm');
 });
+
+// Alur layanan
+Route::get('/alur-layanan', function(){
+    return view("alur-layanan.alur");
+});
