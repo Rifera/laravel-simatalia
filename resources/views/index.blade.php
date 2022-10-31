@@ -37,9 +37,9 @@
         </section>
         <!-- end intro -->
         <!-- start keterangan -->
-        <section class="container-fluid py-5 px-5 d-flex flex-column flex-lg-row gap-5  align-items-center mb-3">
-            <img class="img-fluid img-ket" src="img/img-content-1.png" alt="gambar dukungan">
-            <div class="text-wrap justify-md-text">
+        <section class="container-fluid py-5 px-5 row gap-5 justify-content-center align-items-center mb-3">
+            <img class="img-fluid img-ket col-xl-6 flex-md-4" src="img/img-karyawan.jpg" alt="gambar dukungan">
+            <div class="text-wrap justify-md-text col-xl-5 text-justify">
                 <p>
                     Saat ini, teknologi informasi merupakan bagian yang tidak terpisahkan dari kehidupan kita. Semua
                     aspek kehidupan telah memanfaatkan revolusi teknologi. Tidak hanya perusahaan yang ingin memasarkan
@@ -193,8 +193,8 @@
             <h1 class="text-center mb-4 fw-bolder">Kepala Daerah</h1>
             <div class="d-flex flex-column flex-md-row gap-5">
                 <div class="card text-center px-4">
-                    <img class="img-fluid px-3 px-lg-5" src="img/bupati-tana-tidung-bcircle.png">
-                    <h5 class="mt-4">John Doe</h5>
+                    <img class="img-fluid px-3 px-lg-5" src="img/camat-tanalia.png">
+                    <h5 class="mt-4">Samian</h5>
                     <p class="text-muted">Camat Tana Lia</p>
                 </div>
                 <div class="card text-center px-4">
