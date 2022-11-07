@@ -67,7 +67,7 @@
                     </ul>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Alur Pelayanan</a>
+                    <a class="nav-link" href="/alur-layanan">Alur Pelayanan</a>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
@@ -75,11 +75,11 @@
                         Layanan
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                        <li><a class="dropdown-item" href="#">KTP Elektronik</a></li>
-                        <li><a class="dropdown-item" href="#">Kartu Keluarga</a></li>
-                        <li><a class="dropdown-item" href="#">Surat Pindah</a></li>
-                        <li><a class="dropdown-item" href="#">Surat Domisili</a></li>
-                        <li><a class="dropdown-item" href="#">Surat Keterangan Waris</a></li>
+                        <li><a class="dropdown-item" href="/layanan/kependudukan">Formulir Kependudukan</a></li>
+                        <li><a class="dropdown-item" href="/layanan/pencatatan-sipil">Formulir Pencatatan Sipil</a></li>
+                        <li><a class="dropdown-item" href="#">Surat Dispensasi Nikah</a></li>
+                        <li><a class="dropdown-item" href="#">Surat Rekomendasi</a></li>
+                        <li><a class="dropdown-item" href="#">Surat Verifikasi BLT Dana Desa</a></li>
                     </ul>
                 </li>
                 <li class="nav-item">

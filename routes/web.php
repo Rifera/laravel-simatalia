@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\LayananController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -105,6 +106,8 @@ Route::get('/pemerintahan/pengurus-LPM', function (){
 });
 
 // Alur layanan
-Route::get('/alur-layanan', function(){
-    return view("alur-layanan.alur");
-});
+Route::get('/alur-layanan', [LayananController::class, 'alurView']);
+
+// layanan
+Route::get('/layanan/kependudukan', [LayananController::class, 'formulirKependudukan']);
+Route::get('/layanan/pencatatan-sipil', [LayananController::class, 'formulirSipil']);

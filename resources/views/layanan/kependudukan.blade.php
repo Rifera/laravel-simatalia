@@ -20,9 +20,9 @@
     </>
     <!-- jumbotron -->
     <section class="container-fluid row p-5 m-0">
-        <h1 class="p-0 fw-bold mb-3">Alur Layanan</h1>
+        <h1 class="p-0 fw-bold mb-3">Formulir Kependudukan</h1>
         <div class="col-12 col-xl-8 p-0">
-            <p class="url"><span class="text-secondary"><a class="text-secondary text-decoration-none" href="/">Si Mata Lia</a> > </span><span class="text-danger fw-bold">Alur Layanan</span></p>
+            <p class="url"><span class="text-secondary"><a class="text-secondary text-decoration-none" href="/">Si Mata Lia</a> > </span><span class="text-danger fw-bold">Formulir Kependudukan</span></p>
             <!-- <h2>Formulir Biodata Penduduk Warga Negara</h2> -->
             <!-- <h5 class="p-0 fw-bold">Formulir Biodata Penduduk Warga Negara</h5>
             <iframe src="https://drive.google.com/file/d/1yuANDM67g5ROJrT0fDyqP_ubH5C4eAa2/preview" width="100%" height="600" allow="autoplay"></iframe>
