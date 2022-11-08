@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\LayananController;
+use App\Http\Controllers\SurveyController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -111,3 +112,10 @@ Route::get('/alur-layanan', [LayananController::class, 'alurView']);
 // layanan
 Route::get('/layanan/kependudukan', [LayananController::class, 'formulirKependudukan']);
 Route::get('/layanan/pencatatan-sipil', [LayananController::class, 'formulirSipil']);
+
+// survey
+Route::get('/survey', function(){
+    return view('survey.survey');
+});
+
+Route::post('/kirim-survey', [SurveyController::class, 'storeSurvey']);
