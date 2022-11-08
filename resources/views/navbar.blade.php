@@ -86,7 +86,7 @@
                     <a class="nav-link" href="/kontak">Kontak</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Survey</a>
+                    <a class="nav-link" href="/survey">Survey</a>
                 </li>
             </ul>
         </div>
