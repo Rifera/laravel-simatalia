@@ -78,26 +78,6 @@
                             <td>RT III</td>
                             <td>-</td>
                         </tr>
-                        <tr>
-                            <td>RT IV</td>
-                            <td>-</td>
-                        </tr>
-                        <tr>
-                            <td>RT V</td>
-                            <td>-</td>
-                        </tr>
-                        <tr>
-                            <td>RT VI</td>
-                            <td>-</td>
-                        </tr>
-                        <tr>
-                            <td>RT VII</td>
-                            <td>-</td>
-                        </tr>
-                        <tr>
-                            <td>RT VIII</td>
-                            <td>-</td>
-                        </tr>
                     </tbody>
                 </table>
             </div>
@@ -119,22 +99,6 @@
                         </tr>
                         <tr>
                             <td>RT IV</td>
-                            <td>-</td>
-                        </tr>
-                        <tr>
-                            <td>RT V</td>
-                            <td>-</td>
-                        </tr>
-                        <tr>
-                            <td>RT VI</td>
-                            <td>-</td>
-                        </tr>
-                        <tr>
-                            <td>RT VII</td>
-                            <td>-</td>
-                        </tr>
-                        <tr>
-                            <td>RT VIII</td>
                             <td>-</td>
                         </tr>
                     </tbody>
@@ -168,14 +132,6 @@
                             <td>RT VI</td>
                             <td>-</td>
                         </tr>
-                        <tr>
-                            <td>RT VII</td>
-                            <td>-</td>
-                        </tr>
-                        <tr>
-                            <td>RT VIII</td>
-                            <td>-</td>
-                        </tr>
                     </tbody>
                 </table>
             </div>
@@ -205,14 +161,6 @@
                         </tr>
                         <tr>
                             <td>RT VI</td>
-                            <td>-</td>
-                        </tr>
-                        <tr>
-                            <td>RT VII</td>
-                            <td>-</td>
-                        </tr>
-                        <tr>
-                            <td>RT VIII</td>
                             <td>-</td>
                         </tr>
                     </tbody>
