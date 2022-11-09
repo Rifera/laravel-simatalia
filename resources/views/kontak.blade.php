@@ -37,7 +37,7 @@
                     </div>
                     <div class="col-8 d-flex flex-row gap-3">
                         <i class="material-icons">mail</i>
-                        <p>info@sesayaphilir.com</p>
+                        <p>simatalia.info@gmail.com</p>
                     </div>
                     <div class="col-8 d-flex flex-row gap-3">
                         <i class="material-icons">facebook</i>

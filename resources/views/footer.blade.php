@@ -3,7 +3,7 @@
         <h5 class="fw-bold">Hubungi Kami</h5>
         <p>Jl.Tarakan Jaya No. 1 RT.1, Desa Tanah Merah, Kecamatan Tana Lia,<br> Kabupaten Tana Tidung, Provinsi Kalimantan Utara.</p>
         <p>Konsultasi : 0813-2109-9908 (Telp/WhatsApp)</p>
-        <p>Email : info@sesayaphilir.com</p>
+        <p>Email : simatalia.info@gmail.com</p>
         <p>Official Website : www.sesayaphilir.com</p>
     </div>
     <div class="col-12 col-md">
